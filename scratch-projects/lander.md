@@ -12,7 +12,7 @@ First revision of .cs1 utilities. Changelog:
 - Added current savestring viewer (beta)
 - Added web support
 ##### Downloads & Links
-[Web Version](https://r3dlogic.github.io/scratch-projects/cs1utils0.9.0.html)
+[Web Version](https://r3dlogic.github.io/scratch-projects/cs1utils0-9-0.html)
 ## Extra info and stuff
 ### 	.cs1 Utilities
 **C**ompressed **S**avestring **1** was designed to fix one hurdle in Build Logic, and that is large savestrings, infact, cs1 is powered by LZIP compression, the same one used by .tar.lz archives. To currently make .cs1 compressed savestrings, .cs1 utilities is the current solution to make them. Give large savestrings and they will be compressed.
