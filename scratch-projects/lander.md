@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My New Page"
+title: "Scratch projects"
 ---
 # Scratch Projects
 **Hello!** This is a general page for my Turbowarp/Scratch projects! On the section below, you will find my current projects and their revisions.
