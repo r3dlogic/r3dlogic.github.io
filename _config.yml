@@ -1,6 +1,6 @@
 title: "WHIT3's site"
 description: hello! :D
 url: https://r3dlogic.github.io
-baseurl:         
+baseurl: ""
 logo: /img/logos.png
 theme: jekyll-theme-minimal
