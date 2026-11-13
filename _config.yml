@@ -2,5 +2,5 @@ title: "WHIT3's site"
 description: hello! :D
 url: https://r3dlogic.github.io
 baseurl: ""
-logo: /img/Eifelblick.jpg
+logo: /img/eifelblick.jpg
 theme: jekyll-theme-minimal
