@@ -11,7 +11,7 @@ First revision of .cs1 utilities. Changelog:
 - Added compression and decompression
 - Added current savestring viewer (beta)
 - Added web support
-> Important: there is a known bug on cs1 utilties 0.9.0, as shown below
+Important: there is a known bug on cs1 utilties 0.9.0, as shown below
 <script src="https://gist.github.com/r3dlogic/aa5540eaeedadd2584e4b5be39790ece.js"></script>
 ##### Downloads & Links
 [Web Version](https://r3dlogic.github.io/scratch-projects/cs1utils0-9-0.html)
